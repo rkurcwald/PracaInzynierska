@@ -24,7 +24,7 @@ Smart Contracts can be regarded as one of most popular blockchain-based applicat
   
 ## POLSKA WERSJA  
 ## STRESZCZENIE  
-Inteligentne kontrakty można uznad za najbardziej popularne aplikacje bazujące na technologii Blockchain. W tej pracy przedstawiłem na przykładzie Ethereum, podstawowe pojęcia związane z tą technologią, przykładowe kontrakty, znane ataki i ich symulacje, a także przykłady poprawnego pisania umów i unikania błędów. 
+Inteligentne kontrakty można uznać za najbardziej popularne aplikacje bazujące na technologii Blockchain. W tej pracy przedstawiłem na przykładzie Ethereum, podstawowe pojęcia związane z tą technologią, przykładowe kontrakty, znane ataki i ich symulacje, a także przykłady poprawnego pisania umów i unikania błędów.
   
 ## SŁOWA KLUCZOWE  
 - Ethereum  
