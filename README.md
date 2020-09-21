@@ -1,6 +1,6 @@
 ## ENGLISH TITLE:  
 # Smart Contract Technology and security problems connected with Smart Contracts  
-##  POLSKI TYTU£:  
+##  POLSKI TYTUŁ:  
 # Technologia inteligentnych kontraktów i związane z nią problemy bezpieczeństwa  
     
 README:  
